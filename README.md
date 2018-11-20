@@ -1,4 +1,4 @@
-# iccb_metrics
+# conbio metrics
 
 Temporarily blinded for review.
 R code and data in their respective folders.

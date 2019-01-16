@@ -1,5 +1,5 @@
 # From conference abstract to publication in conservation science
-Luis Verde Arregoitia & Manuela González Suárez  
+Luis Verde Arregoitia & Manuela González-Suárez  
 Conservation Biology  
 
 ## R code and data.
@@ -13,7 +13,7 @@ Code by LDVA
 +-- R  
 |   +-- 01_contributions-by-country.R # Figure 1  
 |   +-- 02_survival-analyses.R        # Figure 2  
-|   +-- 03_recursive-partitioning.R   # SI Figure 1 
+|   +-- 03_recursive-partitioning.R   # SI Figure 1  
 |   +-- 04_transboundary-research.R   # Figure 3  
 |   +-- 05_titles-text-mining.R       # SI Figure 2  
 |   +-- helper_customtreeplots.R      # For plotting conditional inference trees.  

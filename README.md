@@ -8,7 +8,7 @@ Code by LDVA
   
 .  
 +-- Data  
-|   +-- abstracts.csv     # Complete dataset on ICCB 2011 abstracts plus ancilliary information.  
+|   +-- abstracts.csv     # Complete dataset on ICCB 2011 abstracts plus ancillary information.  
 |   +-- minimal-stop.txt  # Custom list of stopwords used for text analysis of abstract titles.  
 +-- R  
 |   +-- 01_contributions-by-country.R # Figure 1  
@@ -20,7 +20,7 @@ Code by LDVA
 .  
 
 
-This spreadsheed from the UNICEF Joint Maltrunition Estimates was used to match countries with their respective World Bank Regions.
+This spreadsheet from the UNICEF Joint Malnutrition Estimates was used to match countries with their respective World Bank Regions.
 https://data.unicef.org/wp-content/uploads/2017/05/JME-regional-classifications-15May-2017.xlsx
 
 Last tested Jan 2019  

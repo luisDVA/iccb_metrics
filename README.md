@@ -1,6 +1,6 @@
 # From conference abstract to publication in conservation science
-Luis Verde Arregoitia & Manuela González Suárez
-
+Luis Verde Arregoitia & Manuela González Suárez  
+Conservation Biology  
 
 ## R code and data.
 Code by LDVA
@@ -23,7 +23,7 @@ Code by LDVA
 This spreadsheed from the UNICEF Joint Maltrunition Estimates was used to match countries with their respective World Bank Regions.
 https://data.unicef.org/wp-content/uploads/2017/05/JME-regional-classifications-15May-2017.xlsx
 
-Last tested Jan 2019
-R version 3.5.2 (2018-12-20)
-Platform: x86_64-pc-linux-gnu (64-bit)
-Running under: Linux Mint 19
+Last tested Jan 2019  
+R version 3.5.2 (2018-12-20)  
+Platform: x86_64-pc-linux-gnu (64-bit)  
+Running under: Linux Mint 19  
